@@ -33,6 +33,7 @@
 * Noclip
 * Dumb Enemies
 * Cutscene Settings
+* Chest Teleport
 
 **Visuals**
 
@@ -42,7 +43,8 @@
 * Free Camera
 * Fov Changer
 * Model Manipulation
-* Paid Skin Changer
+* Skin Changer
+* UID Changer
 
 **Misc**
 
