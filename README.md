@@ -27,13 +27,19 @@
 * Battle Speed
 * Unlock Auto-Battle
 
-**World**
+**Adventure**
 
 * Global Speed
 * Noclip
 * Dumb Enemies
 * Cutscene Settings
+* Auto Talk
+* Talk Settings
 * Chest Teleport
+* Interplanar Jump: Infinite Jumps
+* Infinite Techniques
+* Auto Puzzle
+
 
 **Visuals**
 
