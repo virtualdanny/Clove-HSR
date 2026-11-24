@@ -14,8 +14,7 @@
 
 1. Download the latest release from the [Releases](../../releases) page.
 2. Extract the archive anywhere on your PC.
-3. Launch `Launcher.exe` before opening the game.
-4. Start Honkai: Star Rail.
+3. Launch `Launcher.exe`.
 5. Press **`INSERT`** in-game to open the Clove menu.
 
 ---
